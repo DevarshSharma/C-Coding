@@ -1,3 +1,5 @@
+//Call by value function type
+
 #include <stdio.h>
 long int fact(int n);
 int main()
